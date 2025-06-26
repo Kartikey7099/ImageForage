@@ -18,7 +18,7 @@
 
 | Generated Image Example |
 |--------------------------|
-| ![Sample](outputs/sample_epoch_30.png) |
+| ![Sample](/sample_epoch_30.png) |
 
 ## 📁 Project Structure
 
